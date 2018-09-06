@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0F08E36C-9F18-423D-8F8C-C8C2FACF00F7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bhp-vm", "src\bhp-vm\bhp-vm.csproj", "{A65C9CF5-4946-47C1-B463-BCD1FAB44C30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bhp-vm", "src\bhp-vm\bhp-vm.csproj", "{A86821F9-CBA5-46EC-A82F-0A9DFB7C1423}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,18 +13,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A65C9CF5-4946-47C1-B463-BCD1FAB44C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A65C9CF5-4946-47C1-B463-BCD1FAB44C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A65C9CF5-4946-47C1-B463-BCD1FAB44C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A65C9CF5-4946-47C1-B463-BCD1FAB44C30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A86821F9-CBA5-46EC-A82F-0A9DFB7C1423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A86821F9-CBA5-46EC-A82F-0A9DFB7C1423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A86821F9-CBA5-46EC-A82F-0A9DFB7C1423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A86821F9-CBA5-46EC-A82F-0A9DFB7C1423}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{A65C9CF5-4946-47C1-B463-BCD1FAB44C30} = {0F08E36C-9F18-423D-8F8C-C8C2FACF00F7}
+		{A86821F9-CBA5-46EC-A82F-0A9DFB7C1423} = {0F08E36C-9F18-423D-8F8C-C8C2FACF00F7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {25627FA9-C1AF-4A2C-A2B0-4C8218838554}
+		SolutionGuid = {9F82F26F-3F9A-45DC-89DE-B00332F4CECE}
 	EndGlobalSection
 EndGlobal

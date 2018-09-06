@@ -1,3 +1,3 @@
-# Bhp Virtual Machine
+# BHP Virtual Machine
 
-This is the virtual machine of Bhp.
+This is the virtual machine of BHP: **BhpVM**.

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bhp.VM.Types.Array">
+    <Position X="4.75" Y="3.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAEAACAAEABAQiAAAgAQAAAAAAAAkCBACAAJQEAI=</HashCode>
+      <FileName>Types\Array.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Bhp.VM.StackItem">
+    <Position X="9.5" Y="0.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAgAAABAAAAAAAAIAAABAACAAQAAA=</HashCode>
+      <FileName>StackItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Bhp.VM.Types.Struct">
+    <Position X="5.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Types\Struct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bhp.VM.Types.Boolean">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEIAAAAAgAAAAAAAAAAAACAAABAAAAAYAAA=</HashCode>
+      <FileName>Types\Boolean.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bhp.VM.Types.ByteArray">
+    <Position X="8" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAACAAAAAAAAAQAAA=</HashCode>
+      <FileName>Types\ByteArray.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bhp.VM.Types.Integer">
+    <Position X="10.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAgAAAAAAAAAAAACAAABAAAAAQAAA=</HashCode>
+      <FileName>Types\Integer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bhp.VM.Types.InteropInterface">
+    <Position X="12.5" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAgAAAAAAAAAAAAAAAABAAAACQAAA=</HashCode>
+      <FileName>Types\InteropInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bhp.VM.Types.Map">
+    <Position X="15" Y="3.75" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>iAIAAAAACAAEAgAQjAAABAQEAAAAAAAEABAwAABQAAI=</HashCode>
+      <FileName>Types\Map.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

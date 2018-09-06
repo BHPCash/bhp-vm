@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bhp.VM.ExecutionContext" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAEABAAAACAAAAAABAAAAAAABAAgQAAQAAQAACAgAAA=</HashCode>
+      <FileName>ExecutionContext.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Bhp.VM.ExecutionEngine" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="21.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAkCgAAARABgAACAACAgAQQACAIAAKBAABAAA=</HashCode>
+      <FileName>ExecutionEngine.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Bhp.VM.HashComparer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="23.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>HashComparer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Bhp.VM.InteropService" Collapsed="true">
+    <Position X="19.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAIAAAAAAACAAAEAAABAAAAAAAQAIAAAAA=</HashCode>
+      <FileName>InteropService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bhp.VM.RandomAccessStack&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="21.5" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAkAAAAAEBBAAAAAABAQAAACAAAAEAAAAAABAKAA=</HashCode>
+      <FileName>RandomAccessStack.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Bhp.VM.ScriptBuilder" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="23.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAiAAAAAAAAAAABAAAAAAAAgAAQQAAABCgAA=</HashCode>
+      <FileName>ScriptBuilder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Bhp.VM.StackItem">
+    <Position X="8.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAgAAABAAAAAAAAIAAABAACAAQAAA=</HashCode>
+      <FileName>StackItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Bhp.VM.Types.Array">
+    <Position X="1.5" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAEAACAAEABAQiAAAgAQAAAAAAAAkCBACAAJQEAI=</HashCode>
+      <FileName>Types\Array.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Bhp.VM.Types.Boolean">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEIAAAAAgAAAAAAAAAAAACAAABAAAAAYAAA=</HashCode>
+      <FileName>Types\Boolean.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bhp.VM.Types.ByteArray">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAACAAAAAAAAAQAAA=</HashCode>
+      <FileName>Types\ByteArray.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bhp.VM.Types.Integer">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAgAAAAAAAAAAAACAAABAAAAAQAAA=</HashCode>
+      <FileName>Types\Integer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bhp.VM.Types.InteropInterface">
+    <Position X="11.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAgAAAAAAAAAAAAAAAABAAAACQAAA=</HashCode>
+      <FileName>Types\InteropInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bhp.VM.Types.Map">
+    <Position X="14" Y="3.5" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>iAIAAAAACAAEAgAQjAAABAQEAAAAAAAEABAwAABQAAI=</HashCode>
+      <FileName>Types\Map.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Bhp.VM.ICrypto" Collapsed="true">
+    <Position X="19.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAQAAAAAA=</HashCode>
+      <FileName>ICrypto.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Bhp.VM.IInteropInterface">
+    <Position X="5.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IInteropInterface.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Bhp.VM.IScriptContainer">
+    <Position X="5.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IScriptContainer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Bhp.VM.IScriptTable" Collapsed="true">
+    <Position X="21.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>IScriptTable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Bhp.VM.OpCode" Collapsed="true">
+    <Position X="19.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>TMcCGlRQIzQDgqQiGUCAJAQJQy9JACAjoJBjAkA8Ilo=</HashCode>
+      <FileName>OpCode.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Bhp.VM.VMState" Collapsed="true">
+    <Position X="21.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAACAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>VMState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
